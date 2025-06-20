@@ -18,5 +18,10 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   portada
+   introduccion
+   requisitos del sistema
+   instalacion
+   ejemplo
+   preguntas frecuentes
+   creditos y contacto
